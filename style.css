@@ -1,0 +1,19 @@
+img{
+    height:250px;
+    width:250px;
+    margin-left:400PX;
+    margin-bottom: 20px;
+}
+h1{
+    margin-left: 240px;
+    font-style: oblique;
+    color: green;
+    text-shadow: black;
+
+}
+button{
+    margin-left: 470px;
+
+    background-color:skyblue ;
+    color:white;
+}
